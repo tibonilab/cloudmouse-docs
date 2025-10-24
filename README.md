@@ -1,4 +1,4 @@
-# CloudMouse SDK Documentation 📚
+# CloudMouse Documentation 📚
 
 Official documentation for the CloudMouse - an ESP32-based IoT device for rapid prototyping and production.
 
