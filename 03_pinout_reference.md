@@ -28,7 +28,12 @@ Component | Function | GPIO Pin | Notes
 
 The encoder uses two pins (CLK and DT) for detecting rotation and direction, plus one pin for the integrated push button.
 
-```cpp #define ENCODER_CLK_PIN 16 #define ENCODER_DT_PIN 18 #define ENCODER_SW_PIN 17 ``` 
+```cpp
+#define ENCODER_CLK_PIN 16
+#define ENCODER_DT_PIN 18
+#define ENCODER_SW_PIN 17
+```
+ 
 
 Use interrupt-driven reading for smooth rotation detection without polling.
 
@@ -36,7 +41,11 @@ Use interrupt-driven reading for smooth rotation detection without polling.
 
 The 12 WS2812B LEDs are controlled through a single data line. Each LED can display 16.7 million colors independently.
 
-```cpp #define NUM_LEDS 12 #define DATA_PIN 15 ``` 
+```cpp
+#define NUM_LEDS 12
+#define DATA_PIN 15
+```
+ 
 
 Use the FastLED or Adafruit NeoPixel library for easy control.
 
@@ -44,7 +53,20 @@ Use the FastLED or Adafruit NeoPixel library for easy control.
 
 The 3.5" display uses SPI for communication. The backlight is PWM-controlled for adjustable brightness.
 
-```cpp // SPI Configuration #define TFT_SCLK 6 #define TFT_MOSI 7 #define TFT_CS 4 #define TFT_DC 5 #define TFT_RST 21 #define TFT_BL 8 // Display specs #define SCREEN_WIDTH 480 #define SCREEN_HEIGHT 320 ``` 
+```cpp
+// SPI Configuration
+#define TFT_SCLK 6
+#define TFT_MOSI 7
+#define TFT_CS 4
+#define TFT_DC 5
+#define TFT_RST 21
+#define TFT_BL 8
+
+// Display specs
+#define SCREEN_WIDTH 480
+#define SCREEN_HEIGHT 320
+```
+ 
 
 We recommend using LovyanGFX library for optimal performance with the ILI9488.
 
@@ -52,7 +74,10 @@ We recommend using LovyanGFX library for optimal performance with the ILI9488.
 
 The piezo buzzer can play tones between 1kHz and 4kHz. Perfect for beeps, alerts, and simple melodies.
 
-```cpp #define BUZZER_PIN 14 ``` 
+```cpp
+#define BUZZER_PIN 14
+```
+ 
 
 Use the tone() function or PWM for generating sounds.
 

@@ -60,7 +60,18 @@ Now configure these critical settings in the Tools menu:
 
 Copy this simple test code into Arduino IDE:
 
-```cpp void setup() { Serial.begin(115200); Serial.println("Hello CloudMouse!"); } void loop() { Serial.println("I'm alive!"); delay(1000); } ``` 
+```cpp
+void setup() {
+  Serial.begin(115200);
+  Serial.println("Hello CloudMouse!");
+}
+
+void loop() {
+  Serial.println("I'm alive!");
+  delay(1000);
+}
+```
+ 
 
 Click the Upload button (arrow icon) in the toolbar.
 

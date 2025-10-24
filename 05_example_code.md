@@ -93,7 +93,11 @@ All examples are built to teach you something specific while being actually usef
 
 **Step 2:** Clone the repository
 
-```bash git clone [repository-url] cd [repository-name] ``` 
+```bash
+git clone [repository-url]
+cd [repository-name]
+```
+ 
 
 **Step 3:** Open the `.ino` file in Arduino IDE
 

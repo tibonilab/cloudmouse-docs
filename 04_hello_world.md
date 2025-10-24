@@ -26,13 +26,20 @@ If you don't have Git installed, download it from [git-scm.com](https://git-scm.
 
 Verify installation by opening a terminal and typing:
 
-```bash git --version ``` 
+```bash
+git --version
+```
+ 
 
 ## Step 2: Clone the repository
 
 Open a terminal and navigate to where you want to save the project. Then clone the CloudMouse boilerplate repository:
 
-```bash git clone https://github.com/cloudmouse-co/boilerplate.git cd boilerplate ``` 
+```bash
+git clone https://github.com/cloudmouse-co/boilerplate.git
+cd boilerplate
+```
+ 
 
 This downloads the complete firmware with all necessary files and libraries.
 
