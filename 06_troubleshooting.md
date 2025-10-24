@@ -1,3 +1,7 @@
+# Troubleshooting
+
+### Device not found? Try different cable. Upload fails? Hold BOOT button. Display blank? Check I2C address. We've been there. Solutions inside.
+
 Something not working? Don't panic. Most issues have simple solutions. We've collected the most common problems and their fixes here.
 
 ## Device not recognized by computer

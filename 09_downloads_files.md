@@ -1,3 +1,7 @@
+# Downloads & Files
+
+### Grab firmware binaries. Schematics in PDF. PCB layouts. 3D case files. Pinout diagrams. Arduino libraries. USB drivers. Everything you need. Free.
+
 Everything you need in one place. Firmware binaries, hardware files, libraries, drivers, and documentation. All free, all open source (except the trademarked enclosure design).
 
 ## Firmware

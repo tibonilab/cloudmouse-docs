@@ -1,3 +1,7 @@
+# Welcome to CloudMouse
+
+### Your hackable companion powered by ESP32-S3. Ships with Asteroids. Flash anything. Build everything. Documentation starts here. Welcome aboard
+
 CloudMouse is your hackable companion powered by ESP32-S3. A development board that fits in your hand and packs serious hardware: dual-core processor, color display, rotary encoder, RGB LEDs, and more.
 
 Flash anything. Build everything.
@@ -27,10 +31,10 @@ The hardware is yours. The code is yours. Do whatever you want with it.
 
 ## Getting help
 
-Stuck on something? Check the [Troubleshooting](http://test) section for common issues and solutions.
+Stuck on something? Check the [Troubleshooting](06_troubleshooting.md) section for common issues and solutions.
 
 Want to chat with other makers? Join our [Discord](https://discord.gg/n4Mh6jxH34) community.
 
-Looking for inspiration? Browse the [Examples](http://examples) section for ready-to-run projects.
+Looking for inspiration? Browse the [Examples](05_example_code.md) section for ready-to-run projects.
 
 Now plug it in and let's get started.

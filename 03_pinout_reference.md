@@ -1,3 +1,7 @@
+# Pinout reference
+
+### Every GPIO mapped and labeled. Encoder on pins 1-3. Display via I2C. RGB LED ready. Buzzer waiting. Your playground awaits.
+
 Every GPIO on CloudMouse is mapped and ready to use. This reference shows you exactly which pins control what, so you can start coding immediately.
 
 ## Quick reference table

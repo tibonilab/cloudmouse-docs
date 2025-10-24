@@ -1,3 +1,7 @@
+# Community & Support
+
+### Discord for quick help. Forum for deep discussions. GitHub for code. YouTube for visuals. Twitter for updates. We're here. Join us.
+
 You're not alone. CloudMouse has a growing community of makers, developers, and tinkerers ready to help. Join us, share your projects, get support, or just hang out.
 
 ## Discord

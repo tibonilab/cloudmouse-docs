@@ -1,3 +1,7 @@
+# Example Code
+
+### Six battle-tested examples ready to run. Encoder reading. Display graphics. WiFi scanner. Web server. BLE mouse. Pick one. Upload. Learn. Modify.
+
 Ready-to-run examples that show you what CloudMouse can do. Each example is complete, documented, and available on GitHub. Pick one, clone it, upload it, and see it work.
 
 All examples are built to teach you something specific while being actually useful. No toy projects here.

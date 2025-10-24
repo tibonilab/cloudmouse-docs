@@ -1,3 +1,7 @@
+# Questions & Answers
+
+### What can I build? Anything controllable. Need coding skills? Basics help. Open source? Yes. Battery life? Depends on you. More answers inside.
+
 Got questions? We've got answers. Here are the most common questions about CloudMouse, from capabilities to technical details.
 
 ## General questions

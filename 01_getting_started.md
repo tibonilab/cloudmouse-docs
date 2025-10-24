@@ -1,3 +1,7 @@
+# Getting started
+
+### Plug in. Play Asteroids. Smile. Now install Arduino IDE, select ESP32S3, and upload your first sketch. You're a CloudMouse developer now.
+
 Ready to start coding your CloudMouse? This guide will take you from unboxing to uploading your first sketch in minutes.
 
 ## What you need

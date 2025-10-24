@@ -1,3 +1,7 @@
+# Hello world
+
+### Classic first program. RGB LED blinks red, green, blue. Copy code. Upload. Watch magic happen. Simple as that. You're officially coding hardware.
+
 Your first complete CloudMouse program. This firmware tests all the hardware at once: display shows instructions, LEDs pulse gently, encoder detects rotation and clicks, buzzer beeps on button press.
 
 Perfect for verifying that everything works and learning how to use Git, clone repositories, and flash firmware to your CloudMouse.
